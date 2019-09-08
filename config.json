@@ -1,0 +1,7 @@
+{
+    "ListenAddr": ":8080",
+    "ProjectId": "roger-api",
+    "ServiceId": "alexa",
+    "AmazonClientId": "_REMOVED_",
+    "AmazonClientSecret": "_REMOVED_"
+}
